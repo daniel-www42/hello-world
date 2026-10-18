@@ -1,0 +1,34 @@
+
+GraphedExpression="g_motor.raw_vel_rpm_", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#a00909
+GraphedExpression="g_tim_vel_curve_rpm", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#c0392b
+GraphedExpression="g_tim_vel_ref_rpm", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#e67e22
+GraphedExpression="g_tim_vel_act_rpm", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#2980b9
+GraphedExpression="g_tim_pos_ref_deg", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#8e44ad
+GraphedExpression="g_tim_pos_act_deg", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#27ae60
+OpenDocument="debug.jdebug", FilePath="C:/Users/ASUS/Desktop/first task/debug.jdebug", Line=0
+OpenDocument="Gm6020.h", FilePath="C:/Users/ASUS/Desktop/first task/Tasks/Gm6020.h", Line=0
+OpenDocument="ControlTask.cpp", FilePath="C:/Users/ASUS/Desktop/first task/Tasks/ControlTask.cpp", Line=72
+OpenDocument="main.c", FilePath="C:/Users/ASUS/Desktop/first task/Core/Src/main.c", Line=49
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=300, h=158, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=1096, h=207, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=2, w=300, h=197, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=300, h=487, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=1, w=1096, h=636, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=0, y=0, w=2560, h=577, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="200 ms / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="2269;407", PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="2333;-69", CodeGraphLegendShown=0, CodeGraphLegendPosition="2349;0"
+OpenWindow="Console", DockArea=FLOATING, x=0, y=902, w=0, h=538, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[1034;104;100;100;254]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[271;100;100;100;1014]
+TableHeader="Data Sampling Table", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" g_motor.raw_vel_rpm_"], ColWidths=[100;100;853]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[174;100;100;100;100;100;110;126;186]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[100;100;100;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+WatchedExpression="g_motor", Window=Watched Data 1
+WatchedExpression="g_motor.raw_vel_rpm_", Window=Watched Data 1
+WatchedExpression="g_motor.voltage_", Window=Watched Data 1
+WatchedExpression="g_tim_vel_curve_rpm", Window=Watched Data 1
+WatchedExpression="g_tim_vel_ref_rpm", Window=Watched Data 1
+WatchedExpression="g_tim_vel_act_rpm", Window=Watched Data 1
+WatchedExpression="g_tim_pos_ref_deg", Window=Watched Data 1
+WatchedExpression="g_tim_pos_act_deg", Window=Watched Data 1
